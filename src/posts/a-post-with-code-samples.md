@@ -1,8 +1,8 @@
 ---
-title: A post with code samples
+title: Connecting a Dobiss installation to Home Assistant
 date: '2019-06-18'
 tags:
-  - demo-content
+  - home-automation
   - code
   - blog
 ---
@@ -20,15 +20,17 @@ This is when I normally pull the `.full-bleed` utility class out of my back pock
 
 It’s small, but hella mighty:
 
-```css
-.full-bleed {
-  width: 100vw;
-  margin-left: 50%;
-  transform: translateX(-50%);
-}
+
+
+```
+echo -e "\xED\x43\x31\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xAF\xAF\x53\x00\x00" | nc 192.168.0.103 1001
 ```
 
-Here it is in a context where it makes a fancy `<aside>` and a `<figure>` element bleed out of their parent container.
+```
+echo -e "\xED\x43\x31\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xAF\xAF\x53\x02\x00" | nc 192.168.0.103 1001
+```
+
+
 
 <iframe height="300" style="width: 100%;" scrolling="no" title="Piccalilli CSS Utility — Issue  #2 — Full bleed utility" src="//codepen.io/andybelldesign/embed/Nmxrwv/?height=300&theme-id=dark&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/andybelldesign/pen/Nmxrwv/'>Piccalilli CSS Utility — Issue  #2 — Full bleed utility</a> by Andy Bell
