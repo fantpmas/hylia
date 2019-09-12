@@ -8,4 +8,4 @@ Here's another dark pattern from the Android LinkedIn app.
 
 You now have two options but the second, less favourable option for LinkedIn, is not shown as a true and equivalent button.
 
-![Dark Pattern bij LinkedIn](/images/dark-pattern-linkedin.png "Dark Pattern bij LinkedIn")
+![Dark Pattern on LinkedIn](/images/dark-pattern-linkedin.png "Dark Pattern on LinkedIn")
