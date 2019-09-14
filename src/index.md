@@ -1,8 +1,9 @@
 ---
 layout: home
-title: Een verzameling recepten
-postsHeading: Laatste recepten
-archiveButtonText: Toon alle recepten
+title: 'On woodworking, testing and dark patterns'
+postsHeading: Latest posts
+archiveButtonText: Show all posts
 socialImage: ''
 ---
-Een handige verzameling recepten met ingrediënten als tags. Gebouwd met [Hylia](https://github.com/andybelldesign/hylia).
+
+Posts in Dutch and English. You'll figure it out.
