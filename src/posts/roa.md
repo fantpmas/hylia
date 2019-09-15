@@ -14,10 +14,10 @@ Dit zijn wat foto's die ik nam in een verlaten fabriek op het einde van mijn str
 
 De meeste van zijn werken kan je [hier](http://www.flickr.com/photos/roagraffiti/) vinden.
 
-![Roa Bird](RoaBird.jpg)
+![Roa Bird](/images/RoaBird.jpg)
 
-![Roa Rat](RoaRat.jpg)
+![Roa Rat](/images/RoaRat.jpg)
 
-![Roa Rat Bue](RoaRatBue.jpg)
+![Roa Rat Bue](/images/RoaRatBue.jpg)
 
 

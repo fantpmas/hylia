@@ -8,7 +8,7 @@ tags:
 
 Ik neem niet vaak de bus, maar mijn fiets was kapot en dan neem ik achtereenvolgens tram 4, bus 9 en tram 1 naar mijn werk, kwestie van het meteen goed te doen. Ik kijk graag naar de mensen op de bus en laat mijn fantasie dan de vrije loop gaan.
 
-![Bus](Bus.jpg)
+![Bus](/images/Bus.jpg)
 
 Ze viel op omdat ze extreem gul was met haar glimlach. Die straalde niet alleen voor haar vriend, maar ook voor al de andere pendelaars, mezelf incluis. Zonder enige vorm van discriminatie, dat was mooi. Ze hield de heel herkenbare enveloppe van de belastingdienst losjes vast en ik had een vermoeden dat die papieren aangifte de reden van haar glimlach was. Zoiets ingevuld krijgen is al reden genoeg om te glimlachen maar ik voelde aan dat er meer was.
 

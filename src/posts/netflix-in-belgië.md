@@ -8,7 +8,7 @@ tags:
 
 We hebben thuis al jaren geen kabel meer. Het sop was gewoon de kool niet meer waard. Aan de vele klaagtweets te zien is het er de laatste jaren ook niet op verbeterd. Toen ik onlangs via vier.be keek naar een match van de Rode Duivels bleek het erbarmelijke niveau van de reclame nog verder naar beneden geduikeld. Ze proberen het zelfs niet meer lijkt het. Dat ik de match gewoon via streaming op vier.be kon volgen is wel een evolutie die ik graag zie gebeuren. Ik kijk namelijk al bijna een jaar naar Netflix en dat gaat gewoon via het internet.
 
-![Netflix](Netflix.jpeg)
+![Netflix](/images/Netflix.jpeg)
 
 De komst van Netflix naar Nederland doet vermoeden dat België ook niet lang meer op zich zal laten wachten. Ondertitelaars zijn naar verluidt druk bezig met het verzorgen van ondertiteling. Telenet probeert met hun online aanbod Rex en Rio op de kar te springen maar aan de huidige prijzen zal dat vooral een lege kar blijken te zijn. Hun aanbod zal dan misschien nieuwer zijn dan Netflix, maar voor zo'n meerprijs kunnen ze mij alvast niet bekoren. Kan je niet wachten tot Netflix in België is? Geen nood, je kan vandaag in België al redelijk makkelijk kijken naar Netflix.
 
