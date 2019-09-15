@@ -3,5 +3,8 @@
   publish = "dist"
 
 [[redirects]]
+  from = "/blog"
+  to = "/"
+  
   from = "/blog/*"
   to = "/posts/:splat"  
