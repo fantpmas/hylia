@@ -10,10 +10,10 @@ Dark patterns zijn vooral gekend in de online wereld en zijn user interfaces die
 
 Als je bijvoorbeeld de verhuisdienst van bpost aanvraagt via het gedrukte formulier dan moet je al heel goed zoeken om hier het vakje te vinden dat je moet aankruisen om geen commerciële informatie te krijgen.
 
-![bpost verhuisdienst: zoek de checkbox!](bpostzoekdecheckbox.jpg)
+![bpost verhuisdienst: zoek de checkbox!](/images/bpostzoekdecheckbox.jpg)
 Gezien? Verstopt tussen een lap tekst en ook nog eens in een lichter kleur.
 
-![Gevonden!](bpostzoekdecheckboxgevonden.jpg)
+![Gevonden!](/images/bpostzoekdecheckboxgevonden.jpg)
 
 Weg vertrouwen.
 

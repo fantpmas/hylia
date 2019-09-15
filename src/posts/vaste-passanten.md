@@ -6,7 +6,7 @@ date: '2016-09-07'
 
 Ze vormen een vast herkenningspunt tijdens de dagelijkse fietsrit naar het werk. De vaste passanten die net als ik elke werkdag op ongeveer hetzelfde uur passeren aan hetzelfde punt.
 
-![Vaste passanten](vaste-passanten.jpg)
+![Vaste passanten](/images/vaste-passanten.jpg)
 
 Ik ben onlangs verhuisd en heb de oude vaste passanten ingeruild voor nieuwe. Het duurt een tijdje voor je ze herkent. Maar na een paar weken knik ik al goeiemorgen tegen het meisje met de guitige glimlach.
 

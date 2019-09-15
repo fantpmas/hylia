@@ -9,7 +9,7 @@ taxonomy:
 
 Het failliet van Standaert, één van oudste doe-het-zelf zaken van België, heeft in korte tijd heel wat teweeggebracht in Ledeberg.
 
-![Standaert Ledeberg](Standaert.jpg)
+![Standaert Ledeberg](/images/Standaert.jpg)
 
 De vele jonge gezinnen die de laatste jaren voor verjonging en vernieuwing gezorgd hebben, vormden spontaan een volksbeweging die ze [Ledeberg Doet Het Zelf](http://www.ledebergdoethetzelf.be/) doopten, met als bedoeling de site te vrijwaren van de betonboeren.
 
