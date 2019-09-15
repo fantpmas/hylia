@@ -9,3 +9,11 @@
 [[redirects]]  
   from = "/blog/*"
   to = "/posts/:splat"  
+
+[[redirects]]  
+  from = "/en/*"
+  to = "/:splat" 
+
+[[redirects]]  
+  from = "/nl/*"
+  to = "/:splat" 
