@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: About me
-permalink: about-me
+permalink: about-me.html
 ---
 ## Localization engineer turned agile quality assurance engineer
 
