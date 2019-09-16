@@ -1,9 +1,9 @@
 ---
 layout: home
-title: 'On woodworking, testing and dark patterns'
+title: 'Woodworking, mostly'
 postsHeading: Latest posts
 archiveButtonText: Show all posts
-socialImage: ''
+socialImage: /images/fantpmas.svg
 ---
 
 Posts in Dutch and English. You'll figure it out.
