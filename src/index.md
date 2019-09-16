@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'On woodworking, testing and dark patterns'
+title: 'Woodworking, mostly'
 postsHeading: Latest posts
 archiveButtonText: Show all posts
 socialImage: /images/fantpmas.svg
