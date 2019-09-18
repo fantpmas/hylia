@@ -1,6 +1,7 @@
 ---
 title: Night stands master bedroom
 date: '2019-09-18'
+socialImage: /images/Plywood-Nightstand12.jpg
 tags:
   - woodworking
 ---
