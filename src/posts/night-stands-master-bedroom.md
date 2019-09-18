@@ -1,25 +1,12 @@
 ---
 title: 'Night stands master bedroom'
-published: false
-date: '2018-01-15'
+date: '2019-09-18'
 tags:
   - woodworking
-
-twittercardoptions: summary
-articleenabled: false
-musiceventenabled: false
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-eventenabled: false
-personenabled: false
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 ---
 
-Your page summary goes here.
+Finished these a while ago and even won a small plywood challenge with them.
 
-Your page content goes here.
+18 mm pine plywood joined with dowels. 
+
+![]()
