@@ -2,7 +2,7 @@
 title: 'Netflix in België'
 date: '2013-10-06'
 tags: 
-  - \1
+  - tech
 
 ---
 
