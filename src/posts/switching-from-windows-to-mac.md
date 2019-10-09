@@ -83,12 +83,19 @@ Otherwise, download the app from the vendor's website. In case of *.dmg files, d
 To remove applications, quit the app and drag the app from the Applications folder to the Trash (located at the end of the Dock), then choose `Finder > Empty Trash`.
 
 ## Finder
+
+### Search
+
 By default the search in Finder searches your complete Mac (again, seriously). To change this to the current folder:
 
 1. Pull down the Finder menu and choose `Preference`.
 2. Click on the `Advanced` tab.
 3. Pull down the menu under `When performing a search:`.
 4. Selecting `Search the Current Folder` from the pulldown menu.
+
+### Move one level up
+
+You can move one level up by pressing `Command + Up arrow`.
 
 ## Zipping
 MacOS natively supports (un)zipping. For RAR files you need an external app like [theunarchiver.com](https://theunarchiver.com/).
