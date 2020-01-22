@@ -1,6 +1,6 @@
 ---
 title: 'Walnut pencil holders'
-socialImage: /images/walnut-pencil-holder3.jpg
+socialImage: https://www.fantomas-ls.com/images/walnut-pencil-holder3.jpg
 date: '2020-01-21'
 tags:
   - woodworking
