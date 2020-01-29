@@ -21,16 +21,24 @@ Cut them to length as a final step. Or use a router with a flush-brim bit to flu
 
 # Think of assembly when making plans
 
-Always think
+Always think how you are going to assemble a piece. Are your clamps long enough (you never have enough clamps, so that's a given), can you still reach the screw positions.
 
 # Design/build for the tools you have (access to)
 
-Really sucks if you have to plane a board that is 2 cm too wide for your planer.
+It really sucks if you have to plane a board that is 2 cm too wide for your planer.
 
 # Buy tools as you need them
 
-You really don't need all the latest, greatest and shiniest tools.
+You really don't need all the latest, greatest and shiniest tools. Do buy more clamps though. You can never have enough clamps.
 
 # Always mark your parts and dry fit before glue-up
 
 For the love of God, dry fit.
+
+# Everybody hates sanding
+
+But it makes the difference when applying finish. Don't skip grits.
+
+# Transport and installation
+
+Take care when transporting and installing your projects. Dropping a nicely finished piece and damaging it just before you bring in it can really ruin your day. Measuring if you can actually pass through the door or stairway can safe you a ton of hurt.
