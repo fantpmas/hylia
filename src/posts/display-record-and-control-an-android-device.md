@@ -1,7 +1,6 @@
 ---
 title: 'Display, record and control an android device'
-socialImage: /images/scrcpy.jpg
-date: '2020-02-07'
+date: '2020-02-10'
 tags:
   - tech
 ---
@@ -34,5 +33,3 @@ Used to record demo videos of new features to showcase, in high resolution
 `alias demo='scrcpy -t'`
 
 Used to demo features with touch visible so people can see the clicks, does not record
-
-
