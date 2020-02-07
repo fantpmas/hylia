@@ -1,6 +1,6 @@
 ---
 title: 'Bathroom closets'
-socialImage: https://www.fantomas-ls.com/images/Bathroom-closets-13.jpg
+socialImage: https://www.fantomas-ls.com/images/Bathroom-closets-11.jpg
 date: '2020-02-06'
 tags:
   - woodworking
