@@ -8,7 +8,7 @@ tags:
 
 After tiling the bathroom floor we decided to put the washing machine and dryer in a dedicated closet. And also add a simple hanging cabinet with two doors. Made out of plywood, what else!
 
-Here's what the plans look like in SketchUp. 
+Here's what the plans look like in SketchUp.
 
 ![SketchUp plans](/images/Bathroom-closets-design.png)
 
@@ -40,7 +40,7 @@ Routed out a section to pass the power cord through. Added some different-sized 
 
 ![Ventilation cover, just like Swiss cheese!](/images/Bathroom-closets-12.jpg)
 
-Glue-up had to be done on site as the finished cupboard would not fit through the door. And bringing it up the stairs would've been a bloody nightmare. Thanks to my lovely wife for pointing this out to me.`
+Glue-up had to be done on site as the finished cupboard would not fit through the door. And bringing it up the stairs would've been a bloody nightmare. Thanks to my lovely wife for pointing this out to me.
 
 ![No stress glue-up in phases](/images/Bathroom-closets-8.jpg)
 
@@ -49,6 +49,7 @@ Glue-up had to be done on site as the finished cupboard would not fit through th
 ![Done and dusted!](/images/Bathroom-closets-13.jpg)
 
 ## Lessons learned
+
 - Cutting a full sheet of plywood to precise dimensions is surprisingly hard work, even on the massive sliding table saw we use in the class shop
 - Only cut the doors to final size once the carcass is finished (you are not that accurate, see also previous point)
 - Use a really sharp blade to cut plywood (to avoid tear-out, trembling and tears)
