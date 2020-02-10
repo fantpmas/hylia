@@ -4,6 +4,7 @@ date: '2020-02-10'
 tags:
   - tech
 ---
+
 As a mobile QA engineer I find myself recording screen videos almost every day.
 
 I've been using the command line tool [scrcpy](https://github.com/Genymobile/scrcpy) for this for a while now.
