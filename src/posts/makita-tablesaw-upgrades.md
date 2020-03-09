@@ -39,4 +39,6 @@ Still testing out a prototype cyclone dust extraction system which hooks up to a
 
 ![Cyclone dust extraction](/images/cyclone-dust-extraction.jpg)
 
+Look! There's dust inside!
+
 ![Cyclone dust extraction](/images/cyclone-dust-extraction2.jpg)
