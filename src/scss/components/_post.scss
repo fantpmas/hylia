@@ -84,7 +84,7 @@
     pre > code,
     .video-player,
     video {
-      width: 100vw;
+      width: 100%;
       max-width: map-get($metrics, 'wrap-max-width');
       margin-left: 50%; /*changing this value to 47% removes the horizontal scrollbar once the viewport is < 930px */
       transform: translateX(
