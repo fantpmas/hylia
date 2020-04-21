@@ -4,7 +4,7 @@ date: '2013-01-10'
 tags:
   - streetart
 ---
-Roa is een graffiti-artiest die ook wel de Belgische Banksy genoemd wordt. Niet alleen omdat er bitter weinig geweten is over zijn ware identiteit maar ook omdat zijn werken net dat ietsje meer hebben dan de doorsnee graffiti.
+Roa is een graffiti-artiest die ook wel de Belgische Banksy genoemd wordt. Niet alleen omdat er bitter weinig geweten is over zijn ware identiteit maar ook omdat zijn werken net dat ietsje meer hebben dan de doorsnee graffiti.​
 
 Hij is opgegroeid in Gent waar je vandaag nog veel van zijn werken kan bewonderen, voornamelijk dieren in zwart en wit.
 

@@ -7,7 +7,7 @@ tags:
 
 ---
 
-Great tool to generate random names. Handy for testing user input, many different scripts available.
+Great tool to generate random names. Handy for testing user input, many different scripts available.​
 
 [https://uinames.com/](https://uinames.com/)
 

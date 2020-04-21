@@ -6,7 +6,7 @@ tags:
   - woodworking
 ---
 
-Made a new walnut knife handle to replace broken plastic one.
+Made a new walnut knife handle to replace broken plastic one.​
 
 The plastic knife handle broke off and I thought I'd be good idea to replace it with a walnut handle, as I have a ton of walnut scraps lying around after the coffee table builds.
 

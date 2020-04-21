@@ -3,25 +3,11 @@ title: 'JSON Naming Convention'
 date: '2016-02-10'
 tags:
   - tech
-
-twittercardoptions: summary
-articleenabled: false
-musiceventenabled: false
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-eventenabled: false
-personenabled: false
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 ---
 
 As we're getting more and more JSON files, a tip for all you developers.
 
-Using a naming convention for JSON property names can speed up localization.
+Using a naming convention for JSON property names can speed up localization.​
 
 ```json
 {

@@ -10,7 +10,7 @@ tags:
 
 My first attempt at Ikea hacking.
 
-Combined two Trofast storage units by adding 2 sidings and a top in 18 mm MDF, screwed on from the inside. Rounded over the edges to make it safer to touch. 
+Combined two Trofast storage units by adding 2 sidings and a top in 18 mm MDF, screwed on from the inside. Rounded over the edges to make it safer to touch.​
 
 Will mount two handles on the front face so we can easily pull it out from under the hanging cabinet that will be installed later.
 

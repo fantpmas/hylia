@@ -7,7 +7,7 @@ tags:
 
 ---
 
-Made two display stands for vinyl records while waiting for the glue to dry on my [coffee table](https://www.fantomas-ls.com/en/blog/walnut-coffee-table).
+Made two display stands for vinyl records while waiting for the glue to dry on my [coffee table](https://www.fantomas-ls.com/en/blog/walnut-coffee-table).​
 
 Used salvaged beech to cut two test pieces as I wasn't sure about the 15 degree angle and if the base would be stable enough not to tilt.
 

@@ -3,23 +3,9 @@ title: 'Troubleshooting and reporting bugs'
 date: '2013-08-13'
 tags:
   - tech
-
-twittercardoptions: summary
-articleenabled: false
-musiceventenabled: false
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-eventenabled: false
-personenabled: false
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 ---
 
-I've done a fair amount of troubleshooting on Windows machines and here's some guidelines I've distilled when you come across a problem.
+I've done a fair amount of troubleshooting on Windows machines and here's some guidelines I've distilled when you come across a problem.​
 
 Before contacting support, try troubleshooting yourself. You'll become a better person and world peace will be just around the corner, trust me on that.
 

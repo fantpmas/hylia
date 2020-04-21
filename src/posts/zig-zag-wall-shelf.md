@@ -7,7 +7,7 @@ tags:
 
 ---
 
-Simple wall shelf for in the toilet.
+Simple wall shelf for in the toilet.​
 
 Plywood joined by biscuits.
 

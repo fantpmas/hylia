@@ -8,7 +8,7 @@ tags:
 
 ---
 
-Repurposed an old IKEA closet from work into a hanging cabinet to go above the [Lego play table](../lego-play-table-on-wheels-with-storage).
+Repurposed an old IKEA closet from work into a hanging cabinet to go above the [Lego play table](../lego-play-table-on-wheels-with-storage).​
 
 For the frame, I used the European equivalent of American 2 by 4s: SLS (Scandinavian Lumber Standard) lumber of 38 x 89 mm.
 

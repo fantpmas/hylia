@@ -8,7 +8,7 @@ tags:
 
 ---
 
-Here's a list of my favourite woodworking channels.
+Here's a list of my favourite woodworking channels.​
 
 ### [Ishitani Furniture](https://www.youtube.com/channel/UC7FkqjV8SU5I8FCHXQSQe9Q)
 

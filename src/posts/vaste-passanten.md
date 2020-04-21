@@ -4,7 +4,7 @@ date: '2016-09-07'
 
 ---
 
-Ze vormen een vast herkenningspunt tijdens de dagelijkse fietsrit naar het werk. De vaste passanten die net als ik elke werkdag op ongeveer hetzelfde uur passeren aan hetzelfde punt.
+Ze vormen een vast herkenningspunt tijdens de dagelijkse fietsrit naar het werk. De vaste passanten die net als ik elke werkdag op ongeveer hetzelfde uur passeren aan hetzelfde punt.​
 
 ![Vaste passanten](/images/vaste-passanten.jpg)
 

@@ -6,7 +6,7 @@ tags:
 
 ---
 
-Really like how the colours came out. Had to apply some wax to get the doors to slide better after the paint job.
+Really like how the colours came out. Had to apply some wax to get the doors to slide better after the paint job.​
 
 Took me a few holes to find the (wooden) stud (they are placed horizontally).
 

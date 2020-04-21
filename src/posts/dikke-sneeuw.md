@@ -4,7 +4,7 @@ date: '2017-01-20'
 
 ---
 
-Het was laat en het sneeuwde hard. Dikke, striemende vlokken die me deden twijfelen om af te stappen en te voet verder te gaan. Even later moest ik om een andere reden van de fiets.
+Het was laat en het sneeuwde hard. Dikke, striemende vlokken die me deden twijfelen om af te stappen en te voet verder te gaan. Even later moest ik om een andere reden van de fiets.​
 
 ![Sneeuw](/images/sneeuw&#32;(Small).JPG)
 

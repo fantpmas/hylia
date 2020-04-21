@@ -6,7 +6,7 @@ tags:
 
 ---
 
-Ik denk dat de bakkersvrouw er niet meer is.
+Ik denk dat de bakkersvrouw er niet meer is.​
 
 De rolluiken zijn al een paar weken dicht.
 

@@ -6,7 +6,7 @@ tags:
   - tech
 ---
 
-Here's a handy little script to take screenshots from a connected iPhone and/or Android device and save them directly to your MacBook. Yay, no more e-mailing or AirDropping screenshots to yourself!
+Here's a handy little script to take screenshots from a connected iPhone and/or Android device and save them directly to your MacBook. Yay, no more e-mailing or AirDropping screenshots to yourself!​
 
 ```bash
 #!/usr/bin/env bash

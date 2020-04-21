@@ -6,7 +6,7 @@ tags:
   - woodworking
 ---
 
-The piece that ties the living room together.
+The piece that ties the living room together.​
 
 ## Design
 

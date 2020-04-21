@@ -4,7 +4,7 @@ date: '2013-02-07'
 
 ---
 
-Die vraag stelde ik me onlangs en het antwoord heb je al door naar de URL in de adresbalk te kijken.
+Die vraag stelde ik me onlangs en het antwoord heb je al door naar de URL in de adresbalk te kijken.​
 
 In 2013 heb je immers keuze te over als je je mening kwijt wil op het internet. Wil je korte boodschappen de wereld insturen dan heb je daar [Twitter](https://twitter.com/Fantpmas") voor. Wil je die boodschappen aan elkaar breien dan kan dat perfect met diensten zoals [MakeSets](http://www.MakeSets.com) of [Storify](http://www.Storify.com). Voor al je privé- en familiaal gelul kan je terecht op Facebook.
 

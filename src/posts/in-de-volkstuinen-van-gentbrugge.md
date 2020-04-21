@@ -4,7 +4,7 @@ date: '2013-07-12'
 
 ---
 
-Omdat ons tuintje te klein is voor een deftige moestuin, delen we sinds kort een volkstuintje in Gentbrugge. Toen ik er op een zonnige lentedag voor het eerst kwam, was ik overweldigd door de explosie van geuren die me tegemoet kwam. De geur van barbecue en verse kruiden, de geur van compost en bezwete bovenlijven. De geur van lente die in aantocht was en die de zomer beloofde (há!). Het geluid kwam erna. Het gesis van de barbecues, het gejoel van rennende kinderen, het gerakel in rulle, vruchtbare aarde. Het geraas van de autostrade die ook de Gentbrugse Meersen jammerlijk doorklieft, verdween zo al snel op de achtergrond.
+Omdat ons tuintje te klein is voor een deftige moestuin, delen we sinds kort een volkstuintje in Gentbrugge. Toen ik er op een zonnige lentedag voor het eerst kwam, was ik overweldigd door de explosie van geuren die me tegemoet kwam. De geur van barbecue en verse kruiden, de geur van compost en bezwete bovenlijven. De geur van lente die in aantocht was en die de zomer beloofde (há!). Het geluid kwam erna. Het gesis van de barbecues, het gejoel van rennende kinderen, het gerakel in rulle, vruchtbare aarde. Het geraas van de autostrade die ook de Gentbrugse Meersen jammerlijk doorklieft, verdween zo al snel op de achtergrond.​
 
 ![Volkstuinen van Gentbrugge](/images/vt2.jpg)
 

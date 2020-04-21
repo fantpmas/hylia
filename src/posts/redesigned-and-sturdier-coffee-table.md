@@ -6,7 +6,7 @@ tags:
   - woodworking
 ---
 
-I redesigned the base to make it sturdier and wider. The previous [coffee table base](../coffee-table-base) was a bit too narrow and the design just looked off.
+I redesigned the base to make it sturdier and wider. The previous [coffee table base](../coffee-table-base) was a bit too narrow and the design just looked off.​
 
 ![New coffee table base](/images/Walnut-Coffee-Table-0.jpg)
 

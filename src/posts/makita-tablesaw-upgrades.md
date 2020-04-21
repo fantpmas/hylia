@@ -6,7 +6,7 @@ tags:
   - woodworking
 ---
 
-Got my hands on a Makita MLT100 tablesaw and here's what I did to make it a bit better.
+Got my hands on a Makita MLT100 tablesaw and here's what I did to make it a bit better.​
 
 ## Fence upgrade
 

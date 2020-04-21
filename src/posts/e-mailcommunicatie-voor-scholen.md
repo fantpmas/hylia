@@ -4,7 +4,7 @@ date: '2013-01-21'
 
 ---
 
-De school van mijn kinderen gebruikt e-mail om te communiceren met de ouders. Ze doen dat via de communicatiemodule van [Telraam](http://www.telraam.be), een online schoolplatform dat ontwikkeld wordt in Sint-Niklaas. Een van de voordelen van zo'n platform is dat ze alvast niet in de fout kunnen gaan door iedereen open en bloot in kopie te zetten. Gedaan is de tijd dat alle e-mailadressen van alle ouders te grabbel werden gegooid. Jammer als je wat verlegen bent en het e-mailadres van die knappe mama niet durft te vragen, maar vooral een overwinning voor de privacy.
+De school van mijn kinderen gebruikt e-mail om te communiceren met de ouders. Ze doen dat via de communicatiemodule van [Telraam](http://www.telraam.be), een online schoolplatform dat ontwikkeld wordt in Sint-Niklaas. Een van de voordelen van zo'n platform is dat ze alvast niet in de fout kunnen gaan door iedereen open en bloot in kopie te zetten. Gedaan is de tijd dat alle e-mailadressen van alle ouders te grabbel werden gegooid. Jammer als je wat verlegen bent en het e-mailadres van die knappe mama niet durft te vragen, maar vooral een overwinning voor de privacy.​
 
 Een platform is echter nog geen garantie voor een duidelijke communicatie. Vandaar nog enkele tips:
 

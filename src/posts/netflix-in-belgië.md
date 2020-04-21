@@ -6,7 +6,7 @@ tags:
 
 ---
 
-We hebben thuis al jaren geen kabel meer. Het sop was gewoon de kool niet meer waard. Aan de vele klaagtweets te zien is het er de laatste jaren ook niet op verbeterd. Toen ik onlangs via vier.be keek naar een match van de Rode Duivels bleek het erbarmelijke niveau van de reclame nog verder naar beneden geduikeld. Ze proberen het zelfs niet meer lijkt het. Dat ik de match gewoon via streaming op vier.be kon volgen is wel een evolutie die ik graag zie gebeuren. Ik kijk namelijk al bijna een jaar naar Netflix en dat gaat gewoon via het internet.
+We hebben thuis al jaren geen kabel meer. Het sop was gewoon de kool niet meer waard. Aan de vele klaagtweets te zien is het er de laatste jaren ook niet op verbeterd. Toen ik onlangs via vier.be keek naar een match van de Rode Duivels bleek het erbarmelijke niveau van de reclame nog verder naar beneden geduikeld. Ze proberen het zelfs niet meer lijkt het. Dat ik de match gewoon via streaming op vier.be kon volgen is wel een evolutie die ik graag zie gebeuren. Ik kijk namelijk al bijna een jaar naar Netflix en dat gaat gewoon via het internet.​
 
 ![Netflix](/images/Netflix.jpeg)
 

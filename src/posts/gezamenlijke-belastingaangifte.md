@@ -6,7 +6,7 @@ tags:
 
 ---
 
-Ik neem niet vaak de bus, maar mijn fiets was kapot en dan neem ik achtereenvolgens tram 4, bus 9 en tram 1 naar mijn werk, kwestie van het meteen goed te doen. Ik kijk graag naar de mensen op de bus en laat mijn fantasie dan de vrije loop gaan.
+Ik neem niet vaak de bus, maar mijn fiets was kapot en dan neem ik achtereenvolgens tram 4, bus 9 en tram 1 naar mijn werk, kwestie van het meteen goed te doen. Ik kijk graag naar de mensen op de bus en laat mijn fantasie dan de vrije loop gaan.​
 
 ![Bus](/images/Bus.jpg)
 

@@ -8,7 +8,7 @@ tags:
 
 ---
 
-[Dark patterns](http://darkpatterns.org/) are everywhere and while they may be great for increasing conversion rates they always chip away at the trust you have in the company employing them.
+[Dark patterns](http://darkpatterns.org/) are everywhere and while they may be great for increasing conversion rates they always chip away at the trust you have in the company employing them.​
 
 Here's an example of the LinkedIn app on Android.
 

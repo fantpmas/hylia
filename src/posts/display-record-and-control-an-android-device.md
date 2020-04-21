@@ -8,7 +8,7 @@ tags:
 
 As a mobile QA engineer I find myself recording screen videos almost every day.
 
-I've been using the command line tool [scrcpy](https://github.com/Genymobile/scrcpy) for this for a while now.
+I've been using the command line tool [scrcpy](https://github.com/Genymobile/scrcpy) for this for a while now.​
 
 It can be used to display your android phone screen, to control it using the mouse and keyboard (great for demos) and also record.
 

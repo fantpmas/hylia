@@ -6,7 +6,7 @@ tags:
 
 ---
 
-Dat anglicismen welig tieren op het internet hoef ik jullie allicht niet te vertellen. Het verkeerd gebruik van het weglatingsteken in de bezittelijke naamval is ondertussen zo wijd verspreid dat ik me er niet langer mag aan ergeren van mijn dokter. Hoge bloeddruk en zo. Ook in het Engels wordt het weglatingsteken vaak mismeesterd en dat inspireerde *The Oatmeal* tot deze [fantastische poster](http://theoatmeal.com/comics/apostrophe).
+Dat anglicismen welig tieren op het internet hoef ik jullie allicht niet te vertellen. Het verkeerd gebruik van het weglatingsteken in de bezittelijke naamval is ondertussen zo wijd verspreid dat ik me er niet langer mag aan ergeren van mijn dokter. Hoge bloeddruk en zo. Ook in het Engels wordt het weglatingsteken vaak mismeesterd en dat inspireerde *The Oatmeal* tot deze [fantastische poster](http://theoatmeal.com/comics/apostrophe).​
 
 ## Engelse leenwerkwoorden
 

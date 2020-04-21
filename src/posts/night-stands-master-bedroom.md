@@ -5,7 +5,7 @@ socialImage: /images/Plywood-Nightstand12.jpg
 tags:
   - woodworking
 ---
-Finished these a while ago and even won a small [plywood challenge](https://www.koterij.be/) with them.
+Finished these a while ago and even won a small [plywood challenge](https://www.koterij.be/) with them.​
 
 18 mm pine plywood joined with dowels. 
 

@@ -6,7 +6,7 @@ tags:
 
 ---
 
-Meestal schieten trams en ik goed met elkaar op. Een tram kan nu eenmaal niet direct stoppen (kijk uit je doppen!), dus geef ik ze altijd genoeg ruimte. Ik vroeg me wel al vaker af wat je als fietser eigenlijk moet doen als de tram achter jou rijdt in dezelfde rijrichting. Zeker als de chauffeur je via zijn bel kenbaar maakt dat je uit de kant moet.
+Meestal schieten trams en ik goed met elkaar op. Een tram kan nu eenmaal niet direct stoppen (kijk uit je doppen!), dus geef ik ze altijd genoeg ruimte.​ Ik vroeg me wel al vaker af wat je als fietser eigenlijk moet doen als de tram achter jou rijdt in dezelfde rijrichting. Zeker als de chauffeur je via zijn bel kenbaar maakt dat je uit de kant moet.
 
 Geen medium zo snel als Twitter:
 <blockquote class="twitter-tweet" data-lang="nl"><p lang="nl" dir="ltr"><a href="https://twitter.com/GentseFlikken?ref_src=twsrc%5Etfw">@GentseFlikken</a> Wat wordt er als fietser eigenlijk van je verwacht als een tram van <a href="https://twitter.com/delijn?ref_src=twsrc%5Etfw">@delijn</a> hier achter jou rijdt en zit te bellen? <a href="https://t.co/9JMlxnr1f2">pic.twitter.com/9JMlxnr1f2</a></p>&mdash; Thomas V (@Fantpmas) <a href="https://twitter.com/Fantpmas/status/839741614629216256?ref_src=twsrc%5Etfw">9 maart 2017</a></blockquote>

@@ -8,7 +8,7 @@ tags:
 
 ---
 
-Finished the table top for the [walnut coffee table](../walnut-coffee-table).
+Finished the table top for the [walnut coffee table](../walnut-coffee-table).​
 
 ![](/images/Walnut%20Coffee%20Table%20Top1.jpg)
 

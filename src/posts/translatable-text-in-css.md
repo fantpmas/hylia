@@ -3,11 +3,9 @@ title: 'Translatable text in CSS'
 date: '2015-06-26'
 tags:
   - tech
-
-
 ---
 
-Seriously folks, don't put translatable text in CSS files. I really hate that.
+Seriously folks, don't put translatable text in CSS files. I really hate that.​
 
 ```css
 p.tip 

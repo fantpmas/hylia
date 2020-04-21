@@ -7,7 +7,7 @@ tags:
 
 ---
 
-Ripped a few reclaimed flooring boards into 10 cm strips to make a small garden fence.
+Ripped a few reclaimed flooring boards into 10 cm strips to make a small garden fence.​
 
 Tried to apply the Japanese technique of _[Yakisugi](https://en.wikipedia.org/wiki/Yakisugi)_ (often called _Shou Sugi Ban_) but didn't have a strong enough burner. End result is not too bad I think.
 Threw on a coat of boiled linseed oil for finish. Curious to see how long this will hold out.

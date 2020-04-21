@@ -4,7 +4,7 @@ date: '2013-09-06'
 
 ---
 
-Ik was onlangs nog eens in de lokale supermarkt. Dat gebeurt niet zo veel meer sinds we lid zijn van het voedselteam in Ledeberg. En ook wel omdat mijn vriendin deeltijds werkt, laten we eerlijk zijn. Ik hou niet van supermarkten. Het overaanbod is een van de redenen, de gejaagdheid van de doorsnee klant heeft er wellicht ook mee te maken. In een supermarkt veranderen sympathieke oude besjes ook steevast in nietsontziende met winkelkarren schermende voordringers. Supermarkten als symbool voor de consumptiemaatschappij waar altijd maar meer consumeren het hoogste goed lijkt te zijn. Ga maar eens op zoek naar een pot gewone yoghurt tussen alle light-gedrochten, schier onmogelijk. Dat heeft misschien ook te maken met het feit dat ik een man ben, maar dat laat ik even in het midden.
+Ik was onlangs nog eens in de lokale supermarkt. Dat gebeurt niet zo veel meer sinds we lid zijn van het voedselteam in Ledeberg. En ook wel omdat mijn vriendin deeltijds werkt, laten we eerlijk zijn. Ik hou niet van supermarkten. Het overaanbod is een van de redenen, de gejaagdheid van de doorsnee klant heeft er wellicht ook mee te maken. In een supermarkt veranderen sympathieke oude besjes ook steevast in nietsontziende met winkelkarren schermende voordringers. Supermarkten als symbool voor de consumptiemaatschappij waar altijd maar meer consumeren het hoogste goed lijkt te zijn. Ga maar eens op zoek naar een pot gewone yoghurt tussen alle light-gedrochten, schier onmogelijk. Dat heeft misschien ook te maken met het feit dat ik een man ben, maar dat laat ik even in het midden.​
 
 ![Voedselteams](/images/voedselteams_uitg-290x290.jpg)
 

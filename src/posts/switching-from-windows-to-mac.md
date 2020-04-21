@@ -8,7 +8,7 @@ tags:
 
 ![MacBook stock image, because, why not?](/images/macbook.jpg)
 
-About a year ago I changed jobs and went from a Windows machine to a MacBook Pro. Here are some of the issues I struggled with at first.
+About a year ago I changed jobs and went from a Windows machine to a MacBook Pro. Here are some of the issues I struggled with at first.​
 
 # Keyboard & Mouse
 ## How on earth do I right click?

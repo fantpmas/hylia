@@ -5,11 +5,9 @@ date: '2018-12-03'
 publish_date: '03-12-2018 06:00'
 tags:
   - woodworking
-
-
 ---
 
-The final missing detail arrived in the post this week, the drawer knob I ordered on Etsy. 
+The final missing detail arrived in the post this week, the drawer knob I ordered on Etsy.​
 
 Finishing will be done by my daughter and wife. I think I overheard them talking about wall paper (gasp).
 

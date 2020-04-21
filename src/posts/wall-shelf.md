@@ -7,6 +7,6 @@ tags:
 
 ---
 
-Wall shelf using beech and a birch branch. Finished with boiled linseed oil.
+Wall shelf using beech and a birch branch. Finished with boiled linseed oil.​
 
 ![Wall shelf](/images/20170930_174241.jpg)

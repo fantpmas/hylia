@@ -6,7 +6,7 @@ tags:
   - woodworking
 ---
 
-After tiling the bathroom floor we decided to put the washing machine and dryer in a dedicated closet. And also add a simple hanging cabinet with two doors. Made out of plywood, what else!
+After tiling the bathroom floor we decided to put the washing machine and dryer in a dedicated closet. And also add a simple hanging cabinet with two doors. Made out of plywood, what else!​
 
 Here's what the plans look like in SketchUp.
 

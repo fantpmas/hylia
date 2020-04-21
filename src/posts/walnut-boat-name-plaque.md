@@ -8,7 +8,7 @@ tags:
 
 ---
 
-Last minute Christmas gift for my brother-in-law who just bought a new boat.
+Last minute Christmas gift for my brother-in-law who just bought a new boat.​
 
 Printed out the name and then traced it on the walnut board using a hobby knife. Used pencil to mark the knife lines and then used a router and chisels to remove the letters. Some spray paint and lots of sanding later I had a nice gift.
 

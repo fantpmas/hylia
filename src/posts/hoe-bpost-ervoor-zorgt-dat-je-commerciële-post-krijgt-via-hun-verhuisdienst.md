@@ -4,7 +4,7 @@ date: '2016-09-02'
 
 ---
 
-Grote bedrijven hebben er vaak hun mond van vol: vertrouwen. Dat vertrouwen is bij mij direct zoek als diezelfde bedrijven gebruik maken van [dark patterns](http://darkpatterns.org/).
+Grote bedrijven hebben er vaak hun mond van vol: vertrouwen. Dat vertrouwen is bij mij direct zoek als diezelfde bedrijven gebruik maken van [dark patterns](http://darkpatterns.org/).​
 
 Dark patterns zijn vooral gekend in de online wereld en zijn user interfaces die ontworpen zijn om de gebruiker te misleiden. Maar ook offline worden ze heel vaak gebruikt.
 

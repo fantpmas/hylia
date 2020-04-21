@@ -7,7 +7,7 @@ taxonomy:
 
 ---
 
-Het failliet van Standaert, één van oudste doe-het-zelf zaken van België, heeft in korte tijd heel wat teweeggebracht in Ledeberg.
+Het failliet van Standaert, één van oudste doe-het-zelf zaken van België, heeft in korte tijd heel wat teweeggebracht in Ledeberg.​
 
 ![Standaert Ledeberg](/images/Standaert.jpg)
 

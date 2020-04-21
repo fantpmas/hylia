@@ -6,7 +6,7 @@ date: '2015-04-21'
 
 Een meisje schiet zonder kijken van tussen twee geparkeerde auto's het zebrapad over, een brede grijnslach op haar gezicht.
 
-Een auto kan nog net remmen.
+Een auto kan nog net remmen.​
 
 Haar vader sloft met een blik bier in zijn handen over de straat en wijst haar halverwege het zebrapad terecht.
 

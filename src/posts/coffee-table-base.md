@@ -7,7 +7,7 @@ tags:
 
 ---
 
-Finished the base for the coffee table (and already working on a second, more sturdier version of the base)
+Finished the base for the coffee table (and already working on a second, more sturdier version of the base).​
 
 Made tapered legs with a nice roundover on one side.
 ![](/images/Walnut%20Coffee%20Table%20Legs.jpg)
