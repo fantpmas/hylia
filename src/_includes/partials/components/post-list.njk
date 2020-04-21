@@ -13,7 +13,7 @@
             </h3>
             
             <p class="text-400 gap-top-300">
-              {{ item.data.content | striptags | truncate(160, false, " ...")  | safe }}
+              {{ item.data.content | striptags | replace(r/(.+)​.+/ , "$1")  | safe }}
               
             </p>
             <p class="gap-top-300 post__body">
