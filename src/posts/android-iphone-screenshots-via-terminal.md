@@ -18,4 +18,4 @@ idevice_id -l | grep -q '\d' && idevicescreenshot ~/Downloads/"$datetime-ios.png
 
 It first checks if an iPhone or Android device is connected and then saves a screenshot to your `Downloads` folder on your MacBook. The name contains the timestamp and a `-android` or `-ios` suffix. Screenshots are automatically resized to make them smaller so Jira doesn't freak out. 
 
-As usual, USB debugging is required for Android.
+For iOS you need to install `libimobiledevice` (`brew install libimobiledevice`). As usual, USB debugging is required for Android.
