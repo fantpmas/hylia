@@ -6,4 +6,4 @@ archiveButtonText: Show all posts
 socialImage: /images/fantpmas.svg
 ---
 
-Posts in Dutch and English. You'll figure it out.
+Some tech posts too. You'll figure it out.
