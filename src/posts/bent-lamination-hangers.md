@@ -6,12 +6,12 @@ tags:
   - woodworking
 ---
 
-Simple hangers made by bending and laminating strips of walnut.
+Simple hangers made by bending and laminating strips of walnut.​
 
 Always wanted to have a go at bent lamination and since we needed some hangers for the house I gave it a try.
 
 
-![Bent lamination hangers](/images/Bent-lamination-1.jpg  "Made a simple feather board that doubles as a thin strip jig if you turn it around.")
+![Bent lamination hangers](/images/Bent-lamination-1.jpg  "Made a simple feather board that doubles as a thin strip jig if you turn it around. Much safer to cut thin strips with.")
 
 ![Bent lamination hangers](/images/Bent-lamination-2.jpg  "Made a form to clamp the 3 mm strips of walnut.")
 
