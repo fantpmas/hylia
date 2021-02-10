@@ -23,17 +23,17 @@ I had been working mainly on an old table top sat on an old rickety table. Being
 
 ![Workbench](/images/Workbench-6.jpg "Used half-lap joints.")
 
-![Workbench](/images/Workbench-8.jpg "Starting to look like a workbench already! Glued and screwed the stretchers in place.")
+![Workbench](/images/Workbench-8.jpg "Glued and screwed the stretchers in place. Starting to look like a workbench already!")
 
-![Workbench](/images/Workbench-9.jpg "In the end I opted for CLS beams for the top as I was not keen joining 20+ hand planed boards for the top.")
+![Workbench](/images/Workbench-9.jpg "In the end I opted for CLS beams for the top as I was not keen on joining 20 hand planed boards for the top.")
 
-![Workbench](/images/Workbench-10.jpg "Cut of the rounded courners and almost destroyed the jobsite saw. Had to replace a bearing in the engine house.")
+![Workbench](/images/Workbench-10.jpg "Cut off the rounded corners and almost destroyed the jobsite saw. Had to replace a bearing in the engine house.")
 
 ![Workbench](/images/Workbench-12.jpg "Glued up the top in two parts.")
 
 ![Workbench](/images/Workbench-13.jpg "And used just about enough glue.")
 
-![Workbench](/images/Workbench-14.jpg "Had a huge cup in the top. Mental note: use cauls for the next glue-up.")
+![Workbench](/images/Workbench-14.jpg "Ended up with a huge cup in the top. Mental note: use cauls for the next glue-up.")
 
 ![Workbench](/images/Workbench-15.jpg "Used a home made router sled to flatten the top. Dust collection is key here if you do not want to drown in saw dust.")
 
@@ -43,7 +43,7 @@ I had been working mainly on an old table top sat on an old rickety table. Being
 
 ![Workbench](/images/Workbench-18.jpg "Drilled out most of waste using a Forstner bit.")
 
-![Workbench](/images/Workbench-19.jpg "Cut the top fo final size.")
+![Workbench](/images/Workbench-19.jpg "Cut the top to final size.")
 
 ![Workbench](/images/Workbench-20.jpg "We have our first workbench! Oiled and ready!")
 
