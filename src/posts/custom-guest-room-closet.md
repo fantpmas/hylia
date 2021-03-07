@@ -27,7 +27,7 @@ In order not to bankrupt myself I skipped the designer handles I saw and opted f
 
 ![Guest Room Closet](/images/Guest-Room-Closet-10.jpg "Final module")
 
-![Guest Room Closet](/images/Guest-Room-Closet-11.jpg "That was a tight fit (see Lessons Learned")
+![Guest Room Closet](/images/Guest-Room-Closet-11.jpg "That was a tight fit (see Lessons Learned)")
 
 ![Guest Room Closet](/images/Guest-Room-Closet-12.jpg "Quick and dirty jig to drill the shelf pin holes")
 
