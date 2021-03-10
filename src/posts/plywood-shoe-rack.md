@@ -20,7 +20,7 @@ In order to make it fit with the kitchen island, I used the same plywood and har
 
 ![Plywood Shoe Rack](/images/Plywood-Shoe-Rack-5.jpg "Dry fit of the shelves to get the correct angle and depth.")
 
-![Plywood Shoe Rack](/images/Plywood-Shoe-Rack-6.jpg "Added bevels to the the shelves so they line up flush with the sides. Also marked out for the plunge cuts.")
+![Plywood Shoe Rack](/images/Plywood-Shoe-Rack-6.jpg "Added bevels to the shelves so they line up flush with the sides. Also marked out for the plunge cuts.")
 
 ![Plywood Shoe Rack](/images/Plywood-Shoe-Rack-7.jpg "Do be careful when plunge cutting.")
 
@@ -28,6 +28,6 @@ In order to make it fit with the kitchen island, I used the same plywood and har
 
 ![Plywood Shoe Rack](/images/Plywood-Shoe-Rack-9.jpg "Makes for a lighter looking shelf I think.")
 
-![Plywood Shoe Rack](/images/Plywood-Shoe-Rack-10.jpg "Dry fit.")
+![Plywood Shoe Rack](/images/Plywood-Shoe-Rack-10.jpg "Used brass screws to join everything.")
 
 ![Plywood Shoe Rack](/images/Plywood-Shoe-Rack-11.jpg "Oiled and ready to take shoes.")
