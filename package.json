@@ -11,7 +11,7 @@
     "concurrently": "^6.0.2",
     "html-minifier": "^4.0.0",
     "json-to-scss": "^1.6.2",
-    "sass": "^1.26.3",
+    "sass": "^1.32.12",
     "semver": "^6.3.0",
     "slugify": "^1.4.0",
     "stalfos": "github:hankchizljaw/stalfos#c8971d22726326cfc04089b2da4d51eeb1ebb0eb"
