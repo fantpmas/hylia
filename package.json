@@ -13,7 +13,7 @@
     "json-to-scss": "^1.6.2",
     "sass": "^1.26.3",
     "semver": "^6.3.0",
-    "slugify": "^1.4.0",
+    "slugify": "^1.5.2",
     "stalfos": "github:hankchizljaw/stalfos#c8971d22726326cfc04089b2da4d51eeb1ebb0eb"
   },
   "devDependencies": {
