@@ -8,7 +8,7 @@
     "@11ty/eleventy-plugin-rss": "^1.0.7",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0",
     "@tbranyen/jsdom": "^13.0.0",
-    "concurrently": "^6.0.2",
+    "concurrently": "^6.2.0",
     "html-minifier": "^4.0.0",
     "json-to-scss": "^1.6.2",
     "sass": "^1.32.12",
