@@ -1,7 +1,7 @@
 ---
 title: 'Quick Release Vise Build'
 date: '2021-06-08'
-socialImage: /images/Quick-Release-Vise.jpg
+socialImage: https://www.fantomas-ls.com/images/Quick-Release-Vise.jpg
 tags:
   - woodworking
 ---
