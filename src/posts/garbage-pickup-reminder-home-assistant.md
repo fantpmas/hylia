@@ -21,6 +21,7 @@ sensor:
     - restafval
     - papier
     - pmd
+    - glas
    postcode: 9000
    streetnumber: 666
    streetname: Duivelsteeg
@@ -37,10 +38,7 @@ sensor:
     - platform: state
       entity_id:
         - sensor.recycleapp_morgen
-    condition:
-      condition: time
-      weekday:
-        - mon
+    condition: "{{ states.sensor.recycleapp_morgen.state != 'None' }}"
     action:
       - service: notify.mobile_app_iPhone
         data:
@@ -50,7 +48,7 @@ sensor:
 
 By using [platform: state](https://www.home-assistant.io/docs/automation/trigger/#state-trigger) the automation is triggered when the state of `sensor.recycleapp_morgen` changes. This happens when it is the day before pickup and then returns the items that are being collected.
 
-Pickup day is Tuesday so I added a time condition to show the notification on Monday.
+In order not to trigger the automation when the state becomes empty on bin day itself, I added this condition:{% raw %} `{{ states.sensor.recycleapp_morgen.state != 'None' }}`{% endraw %}
 
 Then simply add an action to notify your mobile phone and presto!
 
